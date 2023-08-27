@@ -1,4 +1,4 @@
-# SpotiStats
+# Statify
 
 A simple React app that displays your most played Spotify artists and tracks over different time ranges.
 
