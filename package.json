@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://localhost:5173/spotistats/",
+  "homepage": "https://lambent-palmier-f2ff22.netlify.app/",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
