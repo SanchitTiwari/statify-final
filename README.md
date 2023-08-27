@@ -36,7 +36,7 @@ To get started with this project, you can either directly visit the hosted websi
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/hritsh/spotistats.git`
+1. Clone the repository: `git clone https://github.com/SanchitTiwari/statify-final`
 2. Install the dependencies: `npm install`
 3. Rename the `.env.example` file to `.env` and replace the placeholder values with your own Spotify client ID and redirect URI.
 4. Start the development server: `npm start`
