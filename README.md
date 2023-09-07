@@ -1,6 +1,6 @@
 # Statify
 
-A simple React app that displays your most played Spotify artists and tracks over different time ranges.
+A simple React app that displays your most played Spotify artists and tracks over different time ranges for the given user.
 
 ![image](https://user-images.githubusercontent.com/65954042/219965780-45872d3a-ab97-4af3-82ed-4477e0f01646.png)
 
