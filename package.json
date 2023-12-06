@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SanchitTiwari.github.io/statify-final",
+  "homepage": "https://statify-zl4n.onrender.com",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
