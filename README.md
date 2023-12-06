@@ -1,6 +1,6 @@
-# SpotiStats
+# Statify
 
-A simple React app that displays your most played Spotify artists and tracks over different time ranges.
+A simple React app that displays your most played Spotify artists and tracks over different time ranges for the given user.
 
 ![image](https://user-images.githubusercontent.com/65954042/219965780-45872d3a-ab97-4af3-82ed-4477e0f01646.png)
 
@@ -36,7 +36,7 @@ To get started with this project, you can either directly visit the hosted websi
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/hritsh/spotistats.git`
+1. Clone the repository: `git clone https://github.com/SanchitTiwari/statify-final`
 2. Install the dependencies: `npm install`
 3. Rename the `.env.example` file to `.env` and replace the placeholder values with your own Spotify client ID and redirect URI.
 4. Start the development server: `npm start`
