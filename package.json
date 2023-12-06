@@ -7,7 +7,7 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm start",
     "predeploy": "npm run build",
     "deploy": "npm run dev",
     "preview": "vite preview"
