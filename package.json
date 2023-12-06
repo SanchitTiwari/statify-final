@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://statify-zl4n.onrender.com",
+  "homepage": "https://SanchitTiwari.github.io/statify-final",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
-    "build": "npm start",
+    "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "npm run dev",
     "preview": "vite preview"
