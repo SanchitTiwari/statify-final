@@ -43,7 +43,7 @@ To run the app locally, follow these steps:
 
 ## Usage
 
-Once the development server is running, open your web browser and navigate to `http://localhost:3000` (or whatever port your app is running on) . Click the "Log in with Spotify" button and follow the prompts to authenticate your account.
+Once the development server is running, open your web browser and navigate to `http://localhost:3000` (or whatever port your app is running on) . Click the "Log in with Spotify" button and follow the prompts to authenticate your Spotify account.
 
 After you've logged in, the app will display your most played artists and tracks over the last 4 weeks. You can change the time range by clicking on the "Last 4 Weeks" button and selecting a different time range from the dropdown menu.
 
