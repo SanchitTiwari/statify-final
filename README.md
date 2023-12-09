@@ -32,7 +32,7 @@ A simple React app that displays your most played Spotify artists and tracks ove
 
 ## Getting Started
 
-To get started with this project, you can either directly visit the hosted website at https://hritsh.github.io/spotistats/ and login using your Spotify account, or clone the repository and run the app locally.
+To get started with this project, you can either directly visit the hosted website at {Soon} and login using your Spotify account, or clone the repository and run the app locally.
 
 To run the app locally, follow these steps:
 
